@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 //Nível Novato
 int main() {
 
